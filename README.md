@@ -16,6 +16,7 @@ This project was created based on this challenge: https://github.com/Apiki/back-
 - [API Endpoints](#api-endpoints)
 - [Conversions](#conversions)
 - [Values of Conversion](#values)
+- 
 
 ## Installation
 1. Clone the repository:
@@ -40,6 +41,7 @@ The API provides the following endpoints:
 
 ```markdown
 POST /exchange/{amount}/{from}/{to}/{rate} - converts the value passed based on the quote passed into the rate
+Example: /exchange/10/BRL/USD/4.50
 
 ```
 
