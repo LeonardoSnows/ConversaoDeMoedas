@@ -1,0 +1,10 @@
+server:
+  error:
+    include-stacktrace: never
+    include-binding-errors: never
+    include-exception: false
+spring:
+  mvc:
+    static-path-pattern: /static/**
+  resources:
+    static-locations: classpath:/static/
