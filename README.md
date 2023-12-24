@@ -16,7 +16,7 @@ This project was created based on this challenge: https://github.com/Apiki/back-
 - [API Endpoints](#api-endpoints)
 - [Conversions](#conversions)
 - [Values of Conversion](#values)
-- 
+
 
 ## Installation
 1. Clone the repository:
